@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone https://github.com/abhishekpandey1880/Wallet-Pay.git
+git clone https://github.com/raj-thumar123/E-Wallet.git
 ```
 
 - npm install
